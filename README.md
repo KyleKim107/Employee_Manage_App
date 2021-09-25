@@ -43,7 +43,7 @@ II. Delete Exist Employee
 
 III. Search Employee
 
-- Search My Name
+- Search By Name
 ![Search by Name](images/2021-09-22-13-51-05.png)
 
 - Search by Email Domain EX) @gmail.com
